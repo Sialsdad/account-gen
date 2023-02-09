@@ -1,0 +1,5 @@
+psutil
+pystyle
+pywin32
+requests
+WMI
